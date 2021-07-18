@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @apoorv-14200
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Apoorv Jain
+- 👀 I’m interested in **Competetive Programming,Machine Learning and Web development**
+- 🌱 I’m currently learning **Machine Learning**
+
+
+
 
 <!---
 apoorv-14200/apoorv-14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
