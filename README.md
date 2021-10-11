@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 
-
+<div align="center">
 
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-14200&show_icons=true&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
 <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=apoorv-14200&theme=radical" />
@@ -18,7 +18,7 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=apoorv-14200&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/apoorv-14200&hide_border=true)
 
-
+</div>
 <!---
 apoorv-14200/apoorv-14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
