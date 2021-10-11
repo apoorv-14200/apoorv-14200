@@ -4,11 +4,9 @@
 
 
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=apoorv-14200&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=apoorv-14200&theme=prussian&hide_border=true" />
 
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-14200&show_icons=true&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
-
+<img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=apoorv-14200&theme=radical&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-14200&langs_count=8&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
 
