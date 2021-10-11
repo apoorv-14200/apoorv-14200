@@ -16,6 +16,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apoorv-14200&repo=ReactTicTacToe&theme=radical)](https://github.com/apoorv-14200/ReactTicTacToe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apoorv-14200&repo=eCommerce-React&theme=radical)](https://github.com/apoorv-14200/eCommerce-React)
 
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=apoorv-14200&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/apoorv-14200&hide_border=true)
+
+
 <!---
 apoorv-14200/apoorv-14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
