@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-14200&langs_count=8&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apoorv-14200&repo=github-readme-stats)](https://github.com/apoorv-14200/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apoorv-14200&repo=Pixelate2021-PathplanningBot)](https://github.com/apoorv-14200/github-readme-stats)
 
 <!---
 apoorv-14200/apoorv-14200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
