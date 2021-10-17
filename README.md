@@ -5,7 +5,9 @@
 
 <div align="center">
 
- <img src="/ezgif.com-gif-maker.gif" style="background-color:white; width:200px; height:100px"></img>
+ <img src="/ezgif.com-gif-maker.gif" style="width: 800px;
+height: 200px;
+background-color: teal;"></img>
  
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-14200&show_icons=true&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
 <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=apoorv-14200&theme=radical" />
