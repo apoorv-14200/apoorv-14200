@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoorv Jain
-- 👀 I’m interested in **Competetive Programming,Machine Learning and Web development**
-- 🌱 I’m currently learning **Machine Learning**
+- 👀 I’m interested in **Competetive Programming, Machine Learning and Web development**
+- 🌱 I’m currently learning **Machine Learning** and **Web Development**.
 
 
 <div align="center">
