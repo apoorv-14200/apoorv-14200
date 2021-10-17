@@ -5,7 +5,8 @@
 
 <div align="center">
 
- <img src="/apoorv-14200/ezgif.com-gif-maker.gif">
+ <img src="/apoorv-14200/ezgif.com-gif-maker.gif"></img>
+ 
 [![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-14200&show_icons=true&theme=radical)](https://github.com/apoorv-14200/github-readme-stats)
 <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=apoorv-14200&theme=radical" />
 
