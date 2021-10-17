@@ -5,7 +5,7 @@
 
 <div align="center">
 
- <img src="/ezgif.com-gif-maker.gif" style="width: 800px;
+ <img src="/text.gif" style="width: 800px;
 height: 200px;
 background-color: teal;"></img>
  
